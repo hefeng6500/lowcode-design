@@ -1,6 +1,12 @@
 {
   "name": "vite-project",
   "version": "0.0.0",
+  "author": {
+    "name": "hefeng6500",
+    "email": "2443992009@qq.com",
+    "url": "https://github.com/hefeng6500"
+  },
+  "homepage": "https://hefeng6500.github.io/lowcode-design/",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
